@@ -19,17 +19,17 @@
 | [Проект по сервису для чтения книг по подписке][14] | *Исследование направлено* на разработку предложения нового продукта в сервисе для чтения книг по подписке | Python, Pandas, PostgreSQL, SQLAlchemy |
 
 
-[1]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Yandex.Music%20Service%20Data%20Analysis
-[2]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Borrower%20Reliability%20Study
-[3]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Real%20Estate%20Market%20Analysis%20in%20St.%20Petersburg
-[4]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Prospective%20Tariff%20Determination
-[5]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Exploring%20Video%20Game%20Success%20Patterns
-[6]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Venture%20Fund%20Investment%20Data%20Study
-[7]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/App%20Loss%20Analysis
-[8]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Analytics%20in%20an%20E-commerce%20Store
-[9]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Market%20Analysis%20of%20Catering%20Establishments%20in%20Moscow
-[10]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/User%20Behavior%20Analysis%20in%20a%20App
-[11]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Creating%20a%20Dashboard%20for%20a%20News%20Aggregator
-[12]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/UX%20Analysis%20in%20an%20Online%20Store
-[13]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/A_B-Test%20Results%20Analysis
-[14]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/New%20Product%20Proposal%20in%20Book%20Service
+[1]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Yandex.Music_Service_Data_Analysis
+[2]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Borrower_Reliability_Study
+[3]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Real_Estate_Market_Analysis_St.Petersburg
+[4]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Prospective_Tariff_Determination
+[5]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Exploring_Video_Game_Success_Patterns
+[6]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Venture_Fund_Investment_Data
+[7]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/App_Loss_Analysis
+[8]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Analytics_E-commerce_Store
+[9]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Market_Analysis_Catering_Establishments_Moscow
+[10]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/User_Behavior_Analysis_in_App
+[11]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Creating_Dashboard_News_Aggregator
+[12]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/UX_Analysis_Online-Store
+[13]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/A_B-Test_Results_Analysis
+[14]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/New_Product_Proposal_Book_Service
