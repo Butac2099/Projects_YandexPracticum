@@ -19,11 +19,11 @@
 | [Проект по сервису для чтения книг по подписке][14] | *Исследование направлено* на разработку предложения нового продукта в сервисе для чтения книг по подписке | Python, Pandas, PostgreSQL, SQLAlchemy |
 
 
-[1]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Yandex.Music_Service_Data_Analysis
+[1]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Yandex.Music_Data_Analysis
 [2]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Borrower_Reliability_Study
 [3]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Real_Estate_Market_Analysis_St.Petersburg
 [4]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Prospective_Tariff_Determination
-[5]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Exploring_Video_Game_Success_Patterns
+[5]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Exploring_Videogame_Success_Patterns
 [6]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Venture_Fund_Investment_Data
 [7]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/App_Loss_Analysis
 [8]:https://github.com/Butac2099/Projects_YandexPracticum/tree/main/Analytics_E-commerce_Store
